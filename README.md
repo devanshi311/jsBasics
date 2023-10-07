@@ -1,0 +1,2 @@
+# jsBasics
+Javascript in details
